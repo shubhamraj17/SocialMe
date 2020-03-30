@@ -9,3 +9,18 @@ This application is a pattern of social components comprising posts, likes, comm
 4. Upload post.
 5. Like, comment on posts.
 6. Search friends 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
